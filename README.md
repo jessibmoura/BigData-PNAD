@@ -17,4 +17,5 @@ Como parte da equipe de um grande hospital interessado em entender o comportamen
 Neste repositório encontram-se os scripts SQL para a geração das tabelas de dados crus e dados processados no ambiente do BigQuery.
 
 `create_raw_data`: Cria a tabela com os dados não processados
+
 `create_processed_data`: Cria a tabela com os dados processados
